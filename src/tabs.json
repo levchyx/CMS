@@ -1,0 +1,5 @@
+[
+  {"id": "dummyTable", "title": "Table", "order": 1, "path": "tabs/Table.tsx"},
+  {"id": "dummyChart", "title": "Chart", "order": 2, "path": "tabs/Chart.tsx"},
+  {"id": "dummyList", "title": "List", "order": 0, "path": "tabs/List.tsx"}
+]
